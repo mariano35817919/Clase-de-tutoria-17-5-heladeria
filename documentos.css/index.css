@@ -1,0 +1,20 @@
+body{
+    background-color: blueviolet;
+}
+.colorBlanco{
+    color:white;
+}
+.colorRojo{
+        color: red;
+}
+h1{
+    color: blue;
+    background-color: yellow;
+    margin:0;
+    padding: 0;
+    }
+
+p{
+    background-color: blanchedalmond;
+    margin:0;
+}
